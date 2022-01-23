@@ -30,10 +30,10 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 # Server json
 install: npm install -g json-server
 
-must execute into folder where contain .json file:  json-server --watch db.json
-End Point: 
-    http://localhost:3000/clientes
-    http://localhost:3000/clientesPagina
-    http://localhost:3000/responseusuario
-    http://localhost:3000/responseUsuarioError
-    http://localhost:3000/cliente
+must execute into folder where contain .json file:  json-server --watch db.json</br>
+End Point: </br>
+    http://localhost:3000/clientes</br>
+    http://localhost:3000/clientesPagina</br>
+    http://localhost:3000/responseusuario</br>
+    http://localhost:3000/responseUsuarioError</br>
+    http://localhost:3000/cliente</br>
