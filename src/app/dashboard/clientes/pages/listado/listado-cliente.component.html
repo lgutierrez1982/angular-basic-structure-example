@@ -1,0 +1,102 @@
+<h1>Listado Clientes</h1>
+<hr>
+
+<table class="table table-dark table-hover">
+    <thead class="table-dark">
+        <tr>
+            <th>Rut</th>
+            <th>Nombre</th>
+            <th>Direccion</th>
+            <th>Telefono</th>
+            <th>Email</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="table-active" *ngFor="let item of listaClientes">
+            <td>{{ item.rut }}</td>
+            <td>{{ item.nombre }}</td>
+            <td>{{ item.direccion }}</td>
+            <td>{{ item.telefono }}</td>
+            <td>{{ item.email }}</td>
+            <td>
+                <button type="button" class="btn btn-outline-primary" (click)="verCliente( item )">Ver</button>
+                <button type="button" class="btn btn-outline-primary" 
+                        [routerLink]="['/dashboard/clientes/editar-cliente', item.rut]"><i class="bi bi-arrow-right"></i></button>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<pre>{{ totalCLiente }}</pre>
+
+
+<!-- <table class="table table-dark table-hover">
+    <tbody>
+        <tr class="table-active">
+            <td>Rut: {{ clienteSeleccionado.rut }}</td>
+        </tr>
+        <tr class="table-active">
+            <td>Nombre: {{ clienteSeleccionado?.nombre }}</td>
+        </tr>
+        <tr class="table-active">
+            <td>Direccion: {{ clienteSeleccionado?.direccion }}</td>
+        </tr>
+        <tr class="table-active">
+            <td>Telefono: {{ clienteSeleccionado?.telefono }}</td>
+        </tr>
+        <tr class="table-active">
+            <td>Email: {{ clienteSeleccionado?.email }}</td>
+        </tr>
+    </tbody>
+</table> -->
+
+<!-- <table class="table table-dark table-hover" *ngIf="clienteSeleccionado">
+    <tbody>
+        <tr class="table-active">
+            <td>Rut: {{ clienteSeleccionado?.rut }}</td>
+        </tr>
+        <tr class="table-active">
+            <td>Nombre: {{ clienteSeleccionado?.nombre }}</td>
+        </tr>
+        <tr class="table-active">
+            <td>Direccion: {{ clienteSeleccionado?.direccion }}</td>
+        </tr>
+        <tr class="table-active">
+            <td>Telefono: {{ clienteSeleccionado?.telefono }}</td>
+        </tr>
+        <tr class="table-active">
+            <td>Email: {{ clienteSeleccionado?.email }}</td>
+        </tr>
+    </tbody>
+</table> -->
+
+<!-- NG-TEAMPLATE -->
+<div *ngIf="clienteSeleccionado; else noSeleccionado">
+    
+    <table class="table table-dark table-hover">
+        <tbody>
+            <tr class="table-active">
+                <td>Rut: {{ clienteSeleccionado.rut }}</td>
+            </tr>
+            <tr class="table-active">
+                <td>Nombre: {{ clienteSeleccionado?.nombre }}</td>
+            </tr>
+            <tr class="table-active">
+                <td>Direccion: {{ clienteSeleccionado?.direccion }}</td>
+            </tr>
+            <tr class="table-active">
+                <td>Telefono: {{ clienteSeleccionado?.telefono }}</td>
+            </tr>
+            <tr class="table-active">
+                <td>Email: {{ clienteSeleccionado?.email }}</td>
+            </tr>
+        </tbody>
+    </table>
+    
+</div>
+
+<ng-template #noSeleccionado>
+    <pre>No existe seleccion aun!!!</pre>
+</ng-template>
+
+
