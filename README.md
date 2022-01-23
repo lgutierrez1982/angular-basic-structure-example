@@ -25,3 +25,15 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+# Server json
+install: npm install -g json-server
+
+must execute into folder where contain .json file:  json-server --watch db.json
+End Point: 
+    http://localhost:3000/clientes
+    http://localhost:3000/clientesPagina
+    http://localhost:3000/responseusuario
+    http://localhost:3000/responseUsuarioError
+    http://localhost:3000/cliente
