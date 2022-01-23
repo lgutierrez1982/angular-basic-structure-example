@@ -1,0 +1,468 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "rut": "15.456.865-4",
+      "nombre": "luis francisco",
+      "apellido": "gutierrez loyola",
+      "direccion": "Magdalena #9784, La Florida",
+      "telefono": 5226583,
+      "celular": 68333444,
+      "email": "lgutierrez1982@gmail.com"
+    },
+    {
+      "id": 2,
+      "rut": "15.456.866-2",
+      "nombre": "carlos alberto",
+      "apellido": "gutierrez loyola",
+      "direccion": "Santa reina #1234, Maipú",
+      "telefono": 5226583,
+      "celular": 68333444,
+      "email": "vampi@gmail.com"
+    },
+    {
+      "id": 3,
+      "rut": "16.280.276-3",
+      "nombre": "claudita teresa",
+      "apellido": "gutierrez loyola",
+      "direccion": "Avenida el principal #8888, La Florida",
+      "telefono": 5226583,
+      "celular": 68333444,
+      "email": "porci@gmail.com"
+    },
+    {
+      "id": 4,
+      "rut": "17.050.876-3",
+      "nombre": "ariel alexis",
+      "apellido": "gutierrez loyola",
+      "direccion": "psje. chonchi #6686, La Cisterna",
+      "telefono": 5226583,
+      "celular": 91239874,
+      "email": "latef@gmail.com"
+    },
+    {
+      "id": 5,
+      "rut": "17.050.876-3",
+      "nombre": "patricio",
+      "apellido": "riquelme inostroza",
+      "direccion": "psje. chonchi #6686, La Cisterna",
+      "telefono": 5226583,
+      "celular": 91239874,
+      "email": "pato@gmail.com"
+    },
+    {
+      "id": 6,
+      "rut": "17.050.876-3",
+      "nombre": "christian wladimir",
+      "apellido": "faundez muñoz",
+      "direccion": "psje. chonchi #6686, La Cisterna",
+      "telefono": 5226583,
+      "celular": 91239874,
+      "email": "baboso@gmail.com"
+    },
+    {
+      "id": 7,
+      "rut": "17.050.876-3",
+      "nombre": "edith angeline",
+      "apellido": "faundez muñoz",
+      "direccion": "psje. chonchi #6686, La Cisterna",
+      "telefono": 5226583,
+      "celular": 91239874,
+      "email": "rulekes@gmail.com"
+    },
+    {
+      "id": 8,
+      "rut": "17.050.876-3",
+      "nombre": "mariliam ester",
+      "apellido": "faundez muñoz",
+      "direccion": "psje. chonchi #6686, La Cisterna",
+      "telefono": 5226583,
+      "celular": 91239874,
+      "email": "diegochico@gmail.com"
+    },
+    {
+      "rut": "17.050.876-3",
+      "nombre": "diego chico",
+      "direccion": "psje. chonchi #6686, La Cisterna",
+      "celular": 91239874,
+      "telefono": 5226583,
+      "email": "gallote@gmail.com",
+      "id": 9
+    },
+    {
+      "id": 10,
+      "rut": "17.050.876-3",
+      "nombre": "juan ernesto",
+      "apellido": "escudero loyola",
+      "direccion": "psje. chonchi #6686, La Cisterna",
+      "telefono": 5226583,
+      "celular": 91239874,
+      "email": "waton@gmail.com"
+    },
+    {
+      "id": 11,
+      "rut": "17.050.876-3",
+      "nombre": "williams wladimir",
+      "apellido": "escudero loyola",
+      "direccion": "psje. chonchi #6686, La Cisterna",
+      "telefono": 5226583,
+      "celular": 91239874,
+      "email": "willito@gmail.com"
+    },
+    {
+      "id": 12,
+      "rut": "17.050.876-3",
+      "nombre": "luis francisco",
+      "apellido": "gutierrez diaz",
+      "direccion": "psje. chonchi #6686, La Cisterna",
+      "telefono": 5226583,
+      "celular": 91239874,
+      "email": "wata@gmail.com"
+    },
+    {
+      "id": 13,
+      "rut": "17.050.876-3",
+      "nombre": "teresa de jesus",
+      "apellido": "loyola rodriguez",
+      "direccion": "psje. chonchi #6686, La Cisterna",
+      "telefono": 5226583,
+      "celular": 91239874,
+      "email": "cochito@gmail.com"
+    },
+    {
+      "id": 14,
+      "rut": "17.050.876-3",
+      "nombre": "juan",
+      "apellido": "loyola",
+      "direccion": "psje. chonchi #6686, La Cisterna",
+      "telefono": 5226583,
+      "celular": 91239874,
+      "email": "tata@gmail.com"
+    },
+    {
+      "id": 15,
+      "rut": "17.050.876-3",
+      "nombre": "ana maria",
+      "apellido": "rodriguez urzua",
+      "direccion": "psje. chonchi #6686, La Cisterna",
+      "telefono": 5226583,
+      "celular": 91239874,
+      "email": "abuelita@gmail.com"
+    },
+    {
+      "id": 16,
+      "rut": "17.050.876-3",
+      "nombre": "jose omar",
+      "apellido": "mena loyola",
+      "direccion": "psje. chonchi #6686, La Cisterna",
+      "telefono": 5226583,
+      "celular": 91239874,
+      "email": "pepito@gmail.com"
+    },
+    {
+      "id": 17,
+      "rut": "17.050.876-3",
+      "nombre": "leonardo",
+      "apellido": "gutierrez suarez",
+      "direccion": "psje. chonchi #6686, La Cisterna",
+      "telefono": 5226583,
+      "celular": 91239874,
+      "email": "leonardo@gmail.com"
+    },
+    {
+      "id": 18,
+      "rut": "17.050.876-3",
+      "nombre": "julieta ignacia",
+      "apellido": "gutierrez faundez",
+      "direccion": "psje. chonchi #6686, La Cisterna",
+      "telefono": 5226583,
+      "celular": 91239874,
+      "email": "julieta@gmail.com"
+    },
+    {
+      "rut": "1111111111",
+      "nombre": "luis",
+      "apellido": "gutierrez",
+      "direccion": "dsadsadsa",
+      "celular": "1231231",
+      "telefono": "123123",
+      "email": "dsadsa@asdsa.com",
+      "id": 19
+    },
+    {
+      "rut": "22222222",
+      "nombre": "luis francisco",
+      "apellido": "gutierrez",
+      "direccion": "dsadsadsa",
+      "celular": "1231231",
+      "telefono": "123123",
+      "email": "dsadsa@gmail.com",
+      "id": 20
+    },
+    {
+      "rut": "154568654",
+      "nombre": "luis francs",
+      "apellido": "gutierrez",
+      "direccion": "dsadsadsa",
+      "celular": "1231231",
+      "telefono": "123123",
+      "email": "dsadsa@asdsa.com",
+      "id": 21
+    },
+    {
+      "rut": "154568654",
+      "nombre": "luis dsadsa",
+      "apellido": "gutierrez",
+      "direccion": "dsadsadsa",
+      "celular": "1231231",
+      "telefono": "123123",
+      "email": "dsadsa@asdsa.com",
+      "id": 22
+    },
+    {
+      "rut": "154568654",
+      "nombre": "luis asfdsfds",
+      "apellido": "gutierrez",
+      "direccion": "dsadsadsa",
+      "celular": "1231231",
+      "telefono": "123123",
+      "email": "dsadsa@asdsa.com",
+      "id": 23
+    },
+    {
+      "rut": "154568654",
+      "nombre": "luis asfdsfds",
+      "apellido": "gutierrez",
+      "direccion": "dsadsadsa",
+      "celular": "1231231",
+      "telefono": "123123",
+      "email": "dsadsa@asdsa.com",
+      "id": 24
+    },
+    {
+      "rut": "154568654",
+      "nombre": "luis asfdsfds",
+      "apellido": "gutierrez",
+      "direccion": "dsadsadsa",
+      "celular": "1231231",
+      "telefono": "123123",
+      "email": "dsadsa@asdsa.com",
+      "id": 25
+    },
+    {
+      "rut": "154568654",
+      "nombre": "luis dsfds",
+      "apellido": "gutierrez",
+      "direccion": "dsadsadsa",
+      "celular": "1231231",
+      "telefono": "123123",
+      "email": "dsadsa@asdsa.com",
+      "id": 26
+    },
+    {
+      "rut": "154568654",
+      "nombre": "luis dsfds",
+      "apellido": "gutierrez",
+      "direccion": "dsadsadsa",
+      "celular": "1231231",
+      "telefono": "123123",
+      "email": "dsadsa@asdsa.com",
+      "id": 27
+    },
+    {
+      "rut": "154568654",
+      "nombre": "luis dsfds",
+      "apellido": "gutierrez",
+      "direccion": "dsadsadsa",
+      "celular": "1231231",
+      "telefono": "123123",
+      "email": "dsadsa@asdsa.com",
+      "id": 28
+    },
+    {
+      "rut": "154568654",
+      "nombre": "luis dsadsa",
+      "apellido": "gutierrez",
+      "direccion": "dsadsadsa",
+      "celular": "68333444",
+      "telefono": "123123",
+      "email": "dsadsa@asdsa.com",
+      "id": 29
+    },
+    {
+      "rut": "154568654",
+      "nombre": "luis francisco",
+      "apellido": "gutierrez",
+      "direccion": "dsadsadsa",
+      "celular": "68333444",
+      "telefono": "123123",
+      "email": "dsadsa@asdsa.com",
+      "id": 30
+    },
+    {
+      "rut": "154568654",
+      "nombre": "luis asdsadsa",
+      "apellido": "gutierrez",
+      "direccion": "dsadsadsa",
+      "celular": "68333444",
+      "telefono": "5226583",
+      "email": "dsadsa@asdsa.com",
+      "id": 31
+    },
+    {
+      "rut": "154568654",
+      "nombre": "luis asdsa",
+      "apellido": "gutierrez",
+      "direccion": "dsadsadsa",
+      "celular": "68333444",
+      "telefono": "123123",
+      "email": "dsadsa@asdsa.com",
+      "id": 32
+    },
+    {
+      "rut": "",
+      "nombre": "luis",
+      "apellido": "gutierrez",
+      "direccion": "dsadsadsa",
+      "celular": "",
+      "telefono": "123123",
+      "email": "dsadsa@asdsa.com",
+      "id": 33
+    },
+    {
+      "rut": "154568654",
+      "nombre": "luis sdfdsfds",
+      "direccion": "dsadsadsa",
+      "celular": "68333444",
+      "telefono": "123123",
+      "email": "dsadsa@asdsa.com",
+      "id": 34
+    },
+    {
+      "rut": "154568654",
+      "nombre": "luis francisco",
+      "direccion": "dsadsadsa",
+      "celular": "68333444",
+      "telefono": "123123",
+      "email": "dsadsa@asdsa.com",
+      "id": 35
+    },
+    {
+      "rut": "154568654",
+      "nombre": "luis gutierrez",
+      "direccion": "dsadsadsa",
+      "celular": "68333444",
+      "telefono": "5226583",
+      "email": "dsadsa@asdsa.com",
+      "id": 36
+    },
+    {
+      "rut": "154568654",
+      "nombre": "luis gutierrez",
+      "direccion": "dsadsadsa",
+      "celular": "68333444",
+      "telefono": "5226583",
+      "email": "dsadsa@asdsa.com",
+      "id": 37
+    },
+    {
+      "rut": "154568654",
+      "nombre": "luis gutierrez",
+      "direccion": "dsadsadsa",
+      "celular": "68333444",
+      "telefono": "5226583",
+      "email": "dsadsa@asdsa.com",
+      "id": 38
+    },
+    {
+      "rut": "154568654",
+      "nombre": "luis gutierrez",
+      "direccion": "dsadsadsa",
+      "celular": "68333444",
+      "telefono": "5226583",
+      "email": "dsadsa@asdsa.com",
+      "id": 39
+    },
+    {
+      "rut": "154568654",
+      "nombre": "luis gutierrez",
+      "direccion": "dsadsadsa",
+      "celular": "68333444",
+      "telefono": "5226583",
+      "email": "dsadsa@asdsa.com",
+      "id": 40
+    },
+    {
+      "rut": "154568654",
+      "nombre": "luis gutierrez",
+      "direccion": "dsadsadsa",
+      "celular": "68333444",
+      "telefono": "5226583",
+      "email": "dsadsa@asdsa.com",
+      "id": 41
+    },
+    {
+      "rut": "154568662",
+      "nombre": "tia paty",
+      "direccion": "dsadsadsa",
+      "celular": "68333444",
+      "telefono": "5226583",
+      "email": "dsadsa@asdsa.com",
+      "id": 42
+    }
+  ],
+
+"clientesPagina": {
+    "clientes": [
+      {
+        "id": 1,
+        "rut": "15.456.865-4",
+        "nombre": "luis francisco",
+        "apellido": "gutierrez loyola",
+        "direccion": "Magdalena #9784, La Florida",
+        "telefono": 5226583,
+        "celular": 68333444,
+        "email": "lgutierrez1982@gmail.com"
+      },
+      {
+        "id": 2,
+        "rut": "15.456.866-2",
+        "nombre": "carlos alberto",
+        "apellido": "gutierrez loyola",
+        "direccion": "Santa reina #1234, Maipú",
+        "telefono": 5226583,
+        "celular": 68333444,
+        "email": "vampi@gmail.com"
+      }
+    ],
+    "ok": true,
+    "total":40
+  },
+
+  "responseusuario":
+  {
+      "ok": true,
+      "usuario":{
+        "username": "lgutierrez1982"
+      }
+  },
+
+  "responseUsuarioError":
+  {
+    "ok": false,
+    "msg": "La contraseña o email no son válidos"
+  },
+
+  "cliente":
+  {
+    "id": 1,
+    "rut": "15.456.865-4",
+    "nombre": "luis francisco",
+    "apellido": "gutierrez loyola",
+    "direccion": "Magdalena #9784, La Florida",
+    "telefono": 5226583,
+    "celular": 68333444,
+    "email": "lgutierrez1982@gmail.com"
+  }   
+
+  }
